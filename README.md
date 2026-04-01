@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1> 👋 I am Gaurav Mishra</h1>
 <br> Btech CSE Student | Full Stack  & ML Enthusiast| GATE CSE Aspirant
-<br><br>- 🔭 I’m currently working on **Full-Stack Web Projects** and **ML-based prediction systems**<br>- 👯 I’m looking to collaborate on **Open Source**, **Backend**, and **ML/AI projects**<br>- 🤝 I’m looking for help with **System Design**, **Advanced DSA**, and **GATE CSE preparation**<br>- 🌱 I’m currently learning **DevOps (Docker, CI/CD)**, **Django**, and **Advanced DSA**<br>- 💬 Ask me about **C/C++, Python, Java, DBMS, OS, CN, TOC**, and **GATE strategy**<br>- ⚡ Fun fact: I balance **GATE prep, internships, and projects** like a multithreaded program 😄<br>
+<br><br>- 🔭 I’m currently working on **Full-Stack Web Projects** and **ML-based prediction systems**<br>- 👯 I’m looking to collaborate on **Open Source**, **Backend**, and **ML/AI projects**<br>- 🤝 I’m looking for help with **System Design**, **Advanced DSA**, and **GATE CSE preparation**<br>- 🌱 I’m currently learning **DevOps (Docker, CI/CD)**, **Django**, and **Advanced DSA**<br>- 💬 Ask me about **C/C++, Python, Java, DBMS, OS, CN, TOC**, and **GATE strategy**<br>- ⚡ Fun fact: I balance **GATE prep, internships, and projects* like a multithreaded program 😄<br>
 
 
 ## 🌐 Socials:
