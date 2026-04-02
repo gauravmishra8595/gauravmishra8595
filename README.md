@@ -1,11 +1,12 @@
 # 💫 About Me:
 <h1> 👋 I am Gaurav Mishra</h1>
 <br> Btech CSE Student | Full Stack  & ML Enthusiast| GATE CSE Aspirant
-<br><br>- 🔭 I’m currently working on **Full-Stack Web Projects** and **ML-based prediction systems**<br>- 👯 I’m looking to collaborate on **Open Source**, **Backend**, and **ML/AI projects**<br>- 🤝 I’m looking for help with **System Design**, **Advanced DSA**, and **GATE CSE preparation**<br>- 🌱 I’m currently learning **DevOps (Docker, CI/CD)**, **Django**, and **Advanced DSA**<br>- 💬 Ask me about **C/C++, Python, Java, DBMS, OS, CN, TOC**, and **GATE strategy**<br>- ⚡ Fun fact: I balance **GATE prep, internships, and projects* like a multithreaded program 😄<br>
+<br><br>- 🔭 I’m currently working on **Full-Stack Web Projects** and **ML-based prediction systems**<br>- 👯 I’m looking to collaborate on **Open Source**, **Backend**, and **ML/AI projects**<br>- 🤝 I’m looking for help with **System Design**, **Advanced DSA**, and **GATE CSE preparation**<br>- 🌱 I’m currently learning **DevOps (Docker, CI/CD)**, **Django**, and **Advanced DSA**<br>- 💬 Ask me about **C/C++, Python, Java, DBMS, OS, CN, TOC**, and **GATE strategy**<br>- ⚡ Fun fact: I balance **GATE prep, internships, and projects**like a multithreaded program 😄<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panditgauravmishra1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-mishra-a6a707325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravmishrag999@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panditgauravmishra1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-mishra-a6a707325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravmishrag999@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/8595290911)
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
